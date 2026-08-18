@@ -171,20 +171,19 @@
 
 | カテゴリ | 技術 | 経験年数 |
 | --- | --- | --- |
-| プログラミング言語 | Java | 1年 |
+| プログラミング言語 | Java | 2年 |
 | プログラミング言語 | JavaScript | 1年 |
 | プログラミング言語 | TypeScript | 2年 |
 | プログラミング言語 | Python | 1年未満 |
 | プログラミング言語 | C言語 | 1年未満 |
 | フレームワーク | React | 1年 |
-| フレームワーク | NestJS | 1年未満 |
+| フレームワーク | Spring Boot | 1年 |
+| フレームワーク | NestJS | 1年 |
 | フレームワーク | Vue.js | 1年未満 |
-| クラウド | AWS | 1年未満 |
-| データベース | PostgreSQL | 1年未満 |
+| クラウド | AWS | 1年 |
+| データベース | PostgreSQL | 1年 |
 | データベース | Oracle SQL | 1年 |
 | データベース | SQL | 2年 |
-
-このほか、three.js、jQuery、Storybook、OpenAPI、GitHub、GitLab、DDD、Linux、SELinuxを実務で使用しています。
 
 ## 資格
 
